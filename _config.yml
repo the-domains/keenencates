@@ -1,9 +1,10 @@
-typography_spectrum: 0.8168742412235588
+layout_spectrum: 0.5115457799833378
+typography_spectrum: 0.8601914058189544
 color:
-  brandStrength: 0.25533660780638456
-  lightness: 0.7402163797523826
-  saturation: 0.9457935264799744
-  rhythmicContrast: 0.7166077168658376
+  brandStrength: 0.5317981519207986
+  lightness: 0.5635576640978678
+  saturation: 0.576475288988008
+  rhythmicContrast: 0.622841432599609
   brandColors:
     - '#FFFFFF'
     - '#CCCCCC'
@@ -11,6 +12,5 @@ color:
     - '#4D4D4D'
     - '#333333'
 github: true
-layout_spectrum: 0.7166862681042403
 name: keenencates
 content: []
